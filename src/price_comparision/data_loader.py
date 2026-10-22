@@ -55,6 +55,13 @@ class SupermarketPipeline(ABC):
             print('Database Error!')
 
 
+    def run(self):
+        print(f'Starting Pipeline {self.source_name}')
+        self.extract()
+        self.transform()
+        self.load()
+
+
 # PIPELINES
 # CSV Pipleine
 class CSVPipeline(SupermarketPipeline):
@@ -64,7 +71,26 @@ class CSVPipeline(SupermarketPipeline):
 
 
 # JSON Pipeline
-class JSON(SupermarketPipeline):
+class JSONPipeline(SupermarketPipeline):
     def extract(self):
         print(f'[{self.source_name}] Extracting JSON from {self.filepath}')
         self.df = pd.read_json(self.filepath)
+
+
+# CREATING OBJECTS
+prod_db_config = DatabaseConfig(
+    '127.0.0.1',
+    5432,
+    'postgres',
+    'postgres',
+    'StrongPassword'
+)
+
+
+pipelines = [
+    CSVPipeline(r'D:\LUX\Python\price-comparision\data\kenya_supermarket_prices.csv', 'Naivas', prod_db_config),
+    JSONPipeline(r'D:\LUX\Python\price-comparision\data\kenya_supermarket_prices.json', 'Carrefour', prod_db_config)
+]
+
+for pipeline in pipelines:
+    pipeline.run()
