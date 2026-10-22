@@ -1,0 +1,5042 @@
+[
+  {
+    "retailer": "Carrefour",
+    "category": "Baby Care",
+    "product_name": "Huggies Dry Comfort Size 5 Jumbo",
+    "pack_size": "each",
+    "price_kes": 1695.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Baby Care",
+    "product_name": "Nipnap Premium Baby Diapers Jumbo Junior 56 Pieces",
+    "pack_size": "56 pcs",
+    "price_kes": 1499.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Baby Care",
+    "product_name": "Pampers Premium Extra Care Pants Size 4 44 Count",
+    "pack_size": "44 pcs",
+    "price_kes": 1312.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Baby Care",
+    "product_name": "Pampers Premium Extra Care Pants Size 5 40 Count",
+    "pack_size": "40 pcs",
+    "price_kes": 1312.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Baby Care",
+    "product_name": "Pampers Premium Extra Care Pants Size 6 36 Count",
+    "pack_size": "36 pcs",
+    "price_kes": 1312.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Baby Care",
+    "product_name": "Comfrey Adult Diaper Medium 10 Pieces",
+    "pack_size": "10 pcs",
+    "price_kes": 1015.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Baby Care",
+    "product_name": "Molfix Diapers Jumbo Size 2 72x3",
+    "pack_size": "216 pcs",
+    "price_kes": 1499.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Baby Care",
+    "product_name": "Nipnap Diapers High Count Maxi 40 Pieces",
+    "pack_size": "40 pcs",
+    "price_kes": 1049.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Baby Care",
+    "product_name": "Nipnap Diapers Jumbo Junior 56 Pieces",
+    "pack_size": "56 pcs",
+    "price_kes": 1499.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Baby Care",
+    "product_name": "Nipnap Diapers Low Count Maxi 8 Pieces",
+    "pack_size": "8 pcs",
+    "price_kes": 219.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Baby Care",
+    "product_name": "Softcare Diaper Gold Large 8 Pieces",
+    "pack_size": "8 pcs",
+    "price_kes": 189.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Baby Care",
+    "product_name": "Gental Care diapers Jumbo XL",
+    "pack_size": "each",
+    "price_kes": 1610.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Baby Care",
+    "product_name": "Huggies Dry Comfort diapers Size 4 56 Count",
+    "pack_size": "56 pcs",
+    "price_kes": 1899.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Baby Care",
+    "product_name": "Molfix diapers 3D Large 56 Pieces",
+    "pack_size": "56 pcs",
+    "price_kes": 1499.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Baby Care",
+    "product_name": "Nipnap Baby diapers Jumbo Pack Junior",
+    "pack_size": "each",
+    "price_kes": 1499.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Baby Care",
+    "product_name": "Nipnap Baby diapers Jumbo Pack Maxi",
+    "pack_size": "each",
+    "price_kes": 1499.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Baby Care",
+    "product_name": "Pampers diapers Pants Size 5 12-18Kg 8 Count",
+    "pack_size": "8 pcs",
+    "price_kes": 270.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Bread",
+    "product_name": "Carrefour Brown Bread 800G",
+    "pack_size": "800G",
+    "price_kes": 117.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Bread",
+    "product_name": "Carrefour White Bread 400G",
+    "pack_size": "400G",
+    "price_kes": 56.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Bread",
+    "product_name": "Carrefour White Bread 800G",
+    "pack_size": "800G",
+    "price_kes": 117.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Bread",
+    "product_name": "Festive Family White Bread 600G",
+    "pack_size": "600G",
+    "price_kes": 97.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Bread",
+    "product_name": "Festive Milky White Bread 400G",
+    "pack_size": "400G",
+    "price_kes": 62.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Bread",
+    "product_name": "Festive Milky White Bread 800G",
+    "pack_size": "800G",
+    "price_kes": 126.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Bread",
+    "product_name": "Broadways White Sliced Bread 400G",
+    "pack_size": "400G",
+    "price_kes": 65.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Bread",
+    "product_name": "Festive Family Brown Bread 600G",
+    "pack_size": "600G",
+    "price_kes": 100.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Bread",
+    "product_name": "Festive Milky White Bread 800G",
+    "pack_size": "800G",
+    "price_kes": 130.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Bread",
+    "product_name": "Fresh White Bread 400G",
+    "pack_size": "400G",
+    "price_kes": 57.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Bread",
+    "product_name": "Fresh White Bread 600G",
+    "pack_size": "600G",
+    "price_kes": 89.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Bread",
+    "product_name": "Fresh White Bread 800G",
+    "pack_size": "800G",
+    "price_kes": 117.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Bread",
+    "product_name": "Budget bread White(800Gm)",
+    "pack_size": "800G",
+    "price_kes": 119.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Bread",
+    "product_name": "Festive Milk bread 800Gms",
+    "pack_size": "800G",
+    "price_kes": 130.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Bread",
+    "product_name": "Festive Milky White bread 400G",
+    "pack_size": "400G",
+    "price_kes": 65.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Bread",
+    "product_name": "Festive Nature Gold W/bread 600G",
+    "pack_size": "600G",
+    "price_kes": 100.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Bread",
+    "product_name": "Supa Loaf Butter Toast bread 800G",
+    "pack_size": "800G",
+    "price_kes": 130.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Bread",
+    "product_name": "Supa Loaf White bread Ct 400G",
+    "pack_size": "400G",
+    "price_kes": 65.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Breakfast Cereals",
+    "product_name": "Kellogg's Corn Flakes 450G",
+    "pack_size": "450G",
+    "price_kes": 854.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Breakfast Cereals",
+    "product_name": "Morning Harvest Corn Flakes 250G",
+    "pack_size": "250G",
+    "price_kes": 259.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Breakfast Cereals",
+    "product_name": "Morning Harvest Corn Flakes 40G",
+    "pack_size": "40G",
+    "price_kes": 35.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Breakfast Cereals",
+    "product_name": "Morning Harvest Cornflakes Bag 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 759.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Breakfast Cereals",
+    "product_name": "Weetabix Crispy Crunchy Corn Flakes 250G",
+    "pack_size": "250G",
+    "price_kes": 300.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Breakfast Cereals",
+    "product_name": "Kelloggs Cornflakes 450G",
+    "pack_size": "450G",
+    "price_kes": 855.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Breakfast Cereals",
+    "product_name": "Morning Harvest Cornflakes 500G Value Pack",
+    "pack_size": "500G",
+    "price_kes": 415.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Breakfast Cereals",
+    "product_name": "Morning Harvest Cornflakes Bag 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 759.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Breakfast Cereals",
+    "product_name": "Temmy's Cornflakes 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 1190.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Breakfast Cereals",
+    "product_name": "Weetabix Cornflakes 250G",
+    "pack_size": "250G",
+    "price_kes": 425.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Breakfast Cereals",
+    "product_name": "Weetabix Cornflakes 500G",
+    "pack_size": "500G",
+    "price_kes": 810.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Breakfast Cereals",
+    "product_name": "Morning Harvest cornflakes 250G Box",
+    "pack_size": "250G",
+    "price_kes": 359.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Breakfast Cereals",
+    "product_name": "Morning Harvest cornflakes Bag 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 759.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Breakfast Cereals",
+    "product_name": "Morning Harvest cornflakes Value Pack 500G",
+    "pack_size": "500G",
+    "price_kes": 415.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Breakfast Cereals",
+    "product_name": "Temmys cornflakes 250G",
+    "pack_size": "250G",
+    "price_kes": 360.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Breakfast Cereals",
+    "product_name": "Weetabix cornflakes 500G",
+    "pack_size": "500G",
+    "price_kes": 810.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Breakfast Cereals",
+    "product_name": "Weetabix cornflakes Extra Crunchy Box 250G",
+    "pack_size": "250G",
+    "price_kes": 300.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Butter",
+    "product_name": "Brookside Salted Butter Tub 250G",
+    "pack_size": "250G",
+    "price_kes": 505.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Butter",
+    "product_name": "Brookside Unsalted Butter Tub 250G",
+    "pack_size": "250G",
+    "price_kes": 505.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Butter",
+    "product_name": "Daima Butter Salted 250G",
+    "pack_size": "250G",
+    "price_kes": 459.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Butter",
+    "product_name": "Daima Butter Salted 500G",
+    "pack_size": "500G",
+    "price_kes": 879.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Butter",
+    "product_name": "Daima Butter Unsalted 250G",
+    "pack_size": "250G",
+    "price_kes": 459.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Butter",
+    "product_name": "Daima Butter Unsalted 500G",
+    "pack_size": "500G",
+    "price_kes": 879.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Butter",
+    "product_name": "Brookside Butter Salted 250G",
+    "pack_size": "250G",
+    "price_kes": 507.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Butter",
+    "product_name": "Brookside Butter Salted 500G",
+    "pack_size": "500G",
+    "price_kes": 913.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Butter",
+    "product_name": "Daima Salted Butter 250G",
+    "pack_size": "250G",
+    "price_kes": 395.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Butter",
+    "product_name": "Daima Salted Butter 500G",
+    "pack_size": "500G",
+    "price_kes": 795.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Butter",
+    "product_name": "K.C.C Salted Butter 500G",
+    "pack_size": "500G",
+    "price_kes": 995.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Butter",
+    "product_name": "Lato Unsalted Butter 250G",
+    "pack_size": "250G",
+    "price_kes": 320.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Coffee",
+    "product_name": "Carrefour Instant Coffee 250G",
+    "pack_size": "250G",
+    "price_kes": 1399.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Coffee",
+    "product_name": "Dormans Fine Instant Coffee 1.6G",
+    "pack_size": "1.6G",
+    "price_kes": 11.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Coffee",
+    "product_name": "Dormans Fine Instant Coffee 1.6G x 36",
+    "pack_size": "36X1.6G",
+    "price_kes": 395.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Coffee",
+    "product_name": "Maccoffee Classic Instant Coffee Mix 1.6G",
+    "pack_size": "1.6G",
+    "price_kes": 10.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Coffee",
+    "product_name": "Nescafe Classic Instant Coffee 1.5G",
+    "pack_size": "1.5G",
+    "price_kes": 10.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Coffee",
+    "product_name": "Nescafe Classic Instant Coffee 50G",
+    "pack_size": "50G",
+    "price_kes": 492.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Coffee",
+    "product_name": "Coffeebee Instant Coffee 1.6G",
+    "pack_size": "1.6G",
+    "price_kes": 9.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Coffee",
+    "product_name": "Coffeebee Instant Coffee Tin 100G",
+    "pack_size": "100G",
+    "price_kes": 659.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Coffee",
+    "product_name": "Coffeebee Instant Coffee Tin 200G",
+    "pack_size": "200G",
+    "price_kes": 1095.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Coffee",
+    "product_name": "Coffeebee Instant Coffee Tin 50G",
+    "pack_size": "50G",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Coffee",
+    "product_name": "Dormans Coffee House Medium Roast 100G",
+    "pack_size": "100G",
+    "price_kes": 245.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Coffee",
+    "product_name": "Dormans Coffee House Medium Roast 500G",
+    "pack_size": "500G",
+    "price_kes": 999.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Coffee",
+    "product_name": "Dormans Fine Instant coffee 1.6G",
+    "pack_size": "1.6G",
+    "price_kes": 11.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Coffee",
+    "product_name": "Dormans Granulated Instant coffee 1.6G",
+    "pack_size": "1.6G",
+    "price_kes": 13.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Coffee",
+    "product_name": "Dormans coffeehouse Medium Roast Medium Grind 250G",
+    "pack_size": "250G",
+    "price_kes": 449.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Coffee",
+    "product_name": "Maccoffee Classic Instant coffee Mix 1.6G",
+    "pack_size": "1.6G",
+    "price_kes": 10.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Coffee",
+    "product_name": "Nescafe Classic Instant coffee 1.5G",
+    "pack_size": "1.5G",
+    "price_kes": 10.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Coffee",
+    "product_name": "Sasini Instant coffee 1.6G",
+    "pack_size": "1.6G",
+    "price_kes": 12.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Fat",
+    "product_name": "Bidco Chipsy Pure Yellow Cooking Fat 500G",
+    "pack_size": "500G",
+    "price_kes": 192.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Fat",
+    "product_name": "Bidco Kimbo Cooking Vegetable Fat 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 377.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Fat",
+    "product_name": "Bidco Kimbo Cooking Vegetable Fat 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 738.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Fat",
+    "product_name": "Bidco Kimbo Cooking Vegetable Fat 500G",
+    "pack_size": "500G",
+    "price_kes": 192.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Fat",
+    "product_name": "Cowboy Spesheli Cooking Fat 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 740.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Fat",
+    "product_name": "Cowboy Spesheli Cooking Fat 500G",
+    "pack_size": "500G",
+    "price_kes": 195.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Fat",
+    "product_name": "Chipsy Plus 3 Cooking Fat Pure Yellow 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 380.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Fat",
+    "product_name": "Cowboy Spesheli Cooking Fat 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 380.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Fat",
+    "product_name": "Kimbo Cooking Vegetable Fat 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 380.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Fat",
+    "product_name": "Kimbo Cooking Vegetable Fat 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 740.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Fat",
+    "product_name": "Kimbo Cooking Vegetable Fat 500G",
+    "pack_size": "500G",
+    "price_kes": 195.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Fat",
+    "product_name": "Mallo Cooking Vegetable Fat 5Kg Carton",
+    "pack_size": "5KG",
+    "price_kes": 1390.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Fat",
+    "product_name": "Bidco Chipsy Pure Yellow cooking fat 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 377.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Fat",
+    "product_name": "Bidco Kimbo Cooking Vegetable Fat 500G",
+    "pack_size": "500G",
+    "price_kes": 192.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Fat",
+    "product_name": "Cowboy Spesheli cooking fat 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 377.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Fat",
+    "product_name": "Cowboy Spesheli cooking fat 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 738.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Fat",
+    "product_name": "Kasuku Pure White cooking fat 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 336.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Fat",
+    "product_name": "Kasuku Pure White cooking fat 500G",
+    "pack_size": "500G",
+    "price_kes": 170.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Oil",
+    "product_name": "Fresh Fri Vegetable Oil 2L",
+    "pack_size": "2L",
+    "price_kes": 679.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Oil",
+    "product_name": "Fresh Fri Vegetable Oil 5L",
+    "pack_size": "5L",
+    "price_kes": 1584.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Oil",
+    "product_name": "Rina Vegetable Cooking Oil 1L",
+    "pack_size": "1L",
+    "price_kes": 348.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Oil",
+    "product_name": "Rina Vegetable Cooking Oil 2L",
+    "pack_size": "2L",
+    "price_kes": 660.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Oil",
+    "product_name": "Rina Vegetable Cooking Oil 3L",
+    "pack_size": "3L",
+    "price_kes": 983.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Cooking Oil",
+    "product_name": "Rina Vegetable Cooking Oil 5L",
+    "pack_size": "5L",
+    "price_kes": 1472.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Oil",
+    "product_name": "Dola Cooking Oil 3L",
+    "pack_size": "3L",
+    "price_kes": 899.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Oil",
+    "product_name": "Dola Cooking Oil 5L",
+    "pack_size": "5L",
+    "price_kes": 1459.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Oil",
+    "product_name": "Fresh Fri Cooking Oil 1L",
+    "pack_size": "1L",
+    "price_kes": 339.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Oil",
+    "product_name": "Masterchef Cooking Oil 1L",
+    "pack_size": "1L",
+    "price_kes": 319.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Oil",
+    "product_name": "Masterchef Cooking Oil 2L",
+    "pack_size": "2L",
+    "price_kes": 629.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Cooking Oil",
+    "product_name": "Rina Vegetable Cooking Oil 10L",
+    "pack_size": "10L",
+    "price_kes": 2945.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Oil",
+    "product_name": "Golden Fry Vegetable cooking oil 5L",
+    "pack_size": "5L",
+    "price_kes": 1299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Oil",
+    "product_name": "Rina Vegetable cooking oil 1L",
+    "pack_size": "1L",
+    "price_kes": 326.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Oil",
+    "product_name": "Rina Vegetable cooking oil 2L",
+    "pack_size": "2L",
+    "price_kes": 635.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Oil",
+    "product_name": "Rina Vegetable cooking oil 5L",
+    "pack_size": "5L",
+    "price_kes": 1466.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Oil",
+    "product_name": "Rinsun Sunflower cooking oil 3L",
+    "pack_size": "3L",
+    "price_kes": 1247.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Cooking Oil",
+    "product_name": "Top Fry Vegetable cooking oil 5L",
+    "pack_size": "5L",
+    "price_kes": 1457.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Eggs",
+    "product_name": "Isinya Eggs 12 Pack",
+    "pack_size": "12 pcs",
+    "price_kes": 273.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Eggs",
+    "product_name": "Isinya Eggs 15 Pack",
+    "pack_size": "15 pcs",
+    "price_kes": 329.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Eggs",
+    "product_name": "Isinya Eggs 30 Pack",
+    "pack_size": "30 pcs",
+    "price_kes": 612.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Eggs",
+    "product_name": "Isinya Eggs 6 Pack",
+    "pack_size": "6 pcs",
+    "price_kes": 141.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Eggs",
+    "product_name": "Sagana Farm Eggs 15 Pack",
+    "pack_size": "15 pcs",
+    "price_kes": 282.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Eggs",
+    "product_name": "Sagana Farm Eggs 30 Pack",
+    "pack_size": "30 pcs",
+    "price_kes": 504.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Eggs",
+    "product_name": "Free Range Eggs 15 Pack",
+    "pack_size": "15 pcs",
+    "price_kes": 415.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Eggs",
+    "product_name": "Isinya Eggs 15 Pack",
+    "pack_size": "15 pcs",
+    "price_kes": 335.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Eggs",
+    "product_name": "Isinya Eggs 30 Pack",
+    "pack_size": "30 pcs",
+    "price_kes": 635.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Eggs",
+    "product_name": "Isinya Eggs 6 Pack",
+    "pack_size": "6 pcs",
+    "price_kes": 145.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Eggs",
+    "product_name": "Jandee Eggs 15 Pack",
+    "pack_size": "15 pcs",
+    "price_kes": 320.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Eggs",
+    "product_name": "Kenegg Golden Yolk Eggs 6 Pack",
+    "pack_size": "6 pcs",
+    "price_kes": 150.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Eggs",
+    "product_name": "Daily Lay Yummy eggs 15Pack",
+    "pack_size": "15 pcs",
+    "price_kes": 348.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Eggs",
+    "product_name": "Daily Lay Yummy eggs 30Pack",
+    "pack_size": "30 pcs",
+    "price_kes": 614.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Eggs",
+    "product_name": "Daily Lay Yummy eggs 6Pack",
+    "pack_size": "6 pcs",
+    "price_kes": 168.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Eggs",
+    "product_name": "Golden Fresh eggs 6Pack",
+    "pack_size": "6 pcs",
+    "price_kes": 160.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Eggs",
+    "product_name": "Jabali Kienyeji eggs 15Pack",
+    "pack_size": "15 pcs",
+    "price_kes": 575.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Eggs",
+    "product_name": "Winnies Organic eggs 15Pack",
+    "pack_size": "15 pcs",
+    "price_kes": 490.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Ajab All Purpose Home Baking Flour 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 93.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Ajab Maize Meal Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 172.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Amaize Maize Meal Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 178.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Exe All Purpose Fortified Wheat Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 189.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Exe Chapati Fortified Wheat Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 192.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Joymax Maize Meal 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 142.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Lotus Home Baking Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 165.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Pembe Home Baking Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 189.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Raha Premium Home Baking Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 186.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Raha Premium Kavagara Maize Meal 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 196.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Soko Maize Meal Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 151.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Flour",
+    "product_name": "Soko Maize Meal Flour 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 407.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Ajab Home Baking Flour 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 92.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Ajab Premium Maize Meal 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 160.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Exe All Purpose Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 189.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Exe Chapati Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 199.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Jogoo Maize Meal 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Lotus Wheat Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 165.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Ndovu Home Baking Wheat Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 182.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Ndovu Maize Meal 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 119.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Pembe Maize Meal 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 146.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Pendo Home Baking Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 187.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Soko Maize Meal 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Flour",
+    "product_name": "Soko Maize Meal 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 415.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "210 Home Baking Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 172.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "210 Sifted maize flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 152.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "Ajab Premium Sifted Maize Meal Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 162.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "Lea Premium All Purpose wheat flour 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 91.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "Lea Premium All Purpose wheat flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 180.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "Lotus Home Baking Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 169.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "Ndovu maize flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 130.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "Pembe maize flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 155.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "Pendo wheat flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 169.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "Raha Premium Maize Meal Flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 197.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "Soko maize flour 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Flour",
+    "product_name": "Umoja wheat flour 2 Kg",
+    "pack_size": "2KG",
+    "price_kes": 180.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Alika Red Potatoes 500G",
+    "pack_size": "500G",
+    "price_kes": 159.5,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Bananas Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 85.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Beef Tomatoes Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 189.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Cherry Tomatoes Red Pack",
+    "pack_size": "each",
+    "price_kes": 129.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Matoke Bananas 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Organic Red Onions 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Plantain Bananas Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 99.5,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Potatoes Loose Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 128.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Potatoes Selected Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 229.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Red Onions Bag 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 252.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Red Onions Pack 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 759.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Red Onions Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 127.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Red Sweet Potatoes 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 119.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Royal Potatoes Bag 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 995.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Small Bananas Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 229.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Tomatoes Loose Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 78.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Tomatoes On The Vine 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 179.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Tomatoes Premium Bag",
+    "pack_size": "each",
+    "price_kes": 99.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Unica Potatoes Bag 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 399.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Yellow Onions 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 218.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Fresh Produce",
+    "product_name": "Yellow Onions Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 79.5,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Bella Tomatoes On Vine 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Cirio Chopped Tomatoes 400G",
+    "pack_size": "400G",
+    "price_kes": 319.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Fresh Beef Tomatoes Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 289.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Fresh Cherry Tomatoes 250G",
+    "pack_size": "250G",
+    "price_kes": 145.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Fresh Red Onions 500G",
+    "pack_size": "500G",
+    "price_kes": 65.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Fresh Red Onions Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 89.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Fresh Tomatoes 500G",
+    "pack_size": "500G",
+    "price_kes": 40.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Fresh Tomatoes Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 79.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Fresh White Onions 500G",
+    "pack_size": "500G",
+    "price_kes": 95.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Fresh White Onions Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 189.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Kampala Bananas 500G",
+    "pack_size": "500G",
+    "price_kes": 45.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Kampala Bananas Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 89.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Plantain Bananas",
+    "pack_size": "each",
+    "price_kes": 259.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Potatoes Irish (Alika)",
+    "pack_size": "each",
+    "price_kes": 249.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Red Potatoes 2.5Kg",
+    "pack_size": "2.5KG",
+    "price_kes": 429.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Red Sweet Potatoes Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 189.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Ripe Sweet Bananas 500G",
+    "pack_size": "500G",
+    "price_kes": 100.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Ripe Sweet Bananas Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 199.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Royal Potatoes 2.5Kg",
+    "pack_size": "2.5KG",
+    "price_kes": 429.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "Salad Onion 250G",
+    "pack_size": "250G",
+    "price_kes": 199.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "White Potatoes 500G",
+    "pack_size": "500G",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Fresh Produce",
+    "product_name": "White Potatoes Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 99.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Alika potatoes Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 329.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Beef tomatoes Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 225.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Cirio Chopped tomatoes 400G",
+    "pack_size": "400G",
+    "price_kes": 319.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Cooking bananas Matoke Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 159.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Long bananas Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 99.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Manitou potatoes 2Kg Bag",
+    "pack_size": "2KG",
+    "price_kes": 599.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Markies potatoes Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 269.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Packed Cherry tomatoes 250G",
+    "pack_size": "250G",
+    "price_kes": 199.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Red onions Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 89.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Salad Onion 250G",
+    "pack_size": "250G",
+    "price_kes": 189.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Santa Maria Chopped tomatoes 400G",
+    "pack_size": "400G",
+    "price_kes": 195.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Spring Onion Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 249.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Sweet bananas Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 259.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "Tomatoes Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 129.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "White Sweet Potato Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 185.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "White onions Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 369.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Fresh Produce",
+    "product_name": "White potatoes Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 129.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Ariel Washing Powder Downy 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Ariel Washing Powder Downy 500G",
+    "pack_size": "500G",
+    "price_kes": 189.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Ariel Washing Powder Fresh Spring 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Ariel Washing Powder Lavender 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Cosy Poa Toilet Rolls White 10 Pack",
+    "pack_size": "10 pcs",
+    "price_kes": 295.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Fay Toilet Rolls White 10 Pack",
+    "pack_size": "10 pcs",
+    "price_kes": 580.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Flora White Toilet Paper Rolls 10 Pack",
+    "pack_size": "10 pcs",
+    "price_kes": 319.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Jamaa Laundry Bar Soap Cream 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 250.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Menengai Detergent Cream Bar Soap 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 225.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Menengai Detergent Cream Bar Soap 800G",
+    "pack_size": "800G",
+    "price_kes": 184.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Meta Clear Multipurpose Soap Bar 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 179.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Msafi Lavender Detergent Powder 500G",
+    "pack_size": "500G",
+    "price_kes": 129.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "My Choice White Toilet Rolls 10 Pack",
+    "pack_size": "10 pcs",
+    "price_kes": 319.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Sunlight Machine Wash Powder Lavender 700G",
+    "pack_size": "700G",
+    "price_kes": 350.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Tena Toilet Rolls White 10 Pack",
+    "pack_size": "10 pcs",
+    "price_kes": 445.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Velvex Toilet Rolls White 10 Pack",
+    "pack_size": "10 pcs",
+    "price_kes": 446.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Zenta Cream Bar Soap 700G",
+    "pack_size": "700G",
+    "price_kes": 121.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Household",
+    "product_name": "Zenta Cream Bar Soap 800G",
+    "pack_size": "800G",
+    "price_kes": 155.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Fay Pink Toilet Paper 2 Ply 10 Rolls",
+    "pack_size": "10 pcs",
+    "price_kes": 399.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Flora Toilet Tissue 2 Ply 10 Rolls",
+    "pack_size": "10 pcs",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Flora Toilet Tissue 2 Ply 4 Rolls",
+    "pack_size": "4 pcs",
+    "price_kes": 129.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Hannan Toilet Tissue 2 Ply 10 Rolls",
+    "pack_size": "10 pcs",
+    "price_kes": 445.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Hannan Toilet Tissue 2 Ply 4 Rolls",
+    "pack_size": "4 pcs",
+    "price_kes": 190.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Jamaa Cream Bar Soap 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 189.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Menengai Lemon Bar Soap 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 219.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Omo Auto Washing Powder Fast Action 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 670.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Omo Hand Washing Powder Fast Action 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 450.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Omo Hand Washing Powder Fast Action 500G",
+    "pack_size": "500G",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Rosy Toilet Tissue 2 Ply 10 Rolls",
+    "pack_size": "10 pcs",
+    "price_kes": 315.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Sunlight 2 In 1 Hand Washing Powder 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 360.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Sunlight Bar Soap 80G",
+    "pack_size": "80G",
+    "price_kes": 33.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Sunlight Bar Soap Yellow 700G",
+    "pack_size": "700G",
+    "price_kes": 280.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Toss White Washing Powder 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 350.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Toss White Washing Powder 500G",
+    "pack_size": "500G",
+    "price_kes": 195.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Ushindi Cream Bar Soap 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 219.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Household",
+    "product_name": "Zenta Cream Bar Soap 800G",
+    "pack_size": "800G",
+    "price_kes": 155.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Ariel washing powder Downy 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 359.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Flora White toilet paper Rolls 10 Pack",
+    "pack_size": "10 pcs",
+    "price_kes": 339.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Hanan toilet paper White 10 Pack",
+    "pack_size": "10 pcs",
+    "price_kes": 445.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Hanan toilet paper White 4 Pack",
+    "pack_size": "4 pcs",
+    "price_kes": 190.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Jamaa Laundry bar soap Cream 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 211.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Kleesoft washing powder White 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 232.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Menengai Detergent Cream bar soap 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 230.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Menengai Detergent Cream bar soap 800G",
+    "pack_size": "800G",
+    "price_kes": 184.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Msafi washing powder 500G Sachet",
+    "pack_size": "500G",
+    "price_kes": 129.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Persil Hand washing powder 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 399.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Softleaf Virgin toilet paper 4 Pack",
+    "pack_size": "4 pcs",
+    "price_kes": 161.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Sunlight Machine Wash Powder Lavender 700G",
+    "pack_size": "700G",
+    "price_kes": 350.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Sunlight Yellow Handwash Laundry bar soap 80G",
+    "pack_size": "80G",
+    "price_kes": 43.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Tiara toilet paper 10 Pack",
+    "pack_size": "10 pcs",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Tiara toilet paper 4 Pack",
+    "pack_size": "4 pcs",
+    "price_kes": 120.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Toss washing powder White 500G",
+    "pack_size": "500G",
+    "price_kes": 213.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Ushindi bar soap Yellow Tablet 175G",
+    "pack_size": "175G",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Household",
+    "product_name": "Whitewash bar soap White 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 241.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Juice",
+    "product_name": "Del Monte Juice Blend Mixed Berry 1L",
+    "pack_size": "1L",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Juice",
+    "product_name": "Gofrut Apple Juice 1L",
+    "pack_size": "1L",
+    "price_kes": 130.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Juice",
+    "product_name": "Minute Maid Apple Juice 1L",
+    "pack_size": "1L",
+    "price_kes": 154.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Juice",
+    "product_name": "Minute Maid Orange Pulpy Juice 1L",
+    "pack_size": "1L",
+    "price_kes": 154.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Juice",
+    "product_name": "Orchid Valley Delight Apple Juice 1L",
+    "pack_size": "1L",
+    "price_kes": 199.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Juice",
+    "product_name": "Pick N Peel Apple Juice 1L",
+    "pack_size": "1L",
+    "price_kes": 289.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Juice",
+    "product_name": "Acacia Kids Apple Juice 200Ml",
+    "pack_size": "200ML",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Juice",
+    "product_name": "Acacia Kids Mango Juice 200Ml",
+    "pack_size": "200ML",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Juice",
+    "product_name": "Acacia Kids Strawberry Juice 200Ml",
+    "pack_size": "200ML",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Juice",
+    "product_name": "Pick N Peel Orange Juice 1L",
+    "pack_size": "1L",
+    "price_kes": 229.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Juice",
+    "product_name": "Afia Pineapple juice 1L",
+    "pack_size": "1L",
+    "price_kes": 170.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Juice",
+    "product_name": "Del Monte Pineapple Blend juice 1L",
+    "pack_size": "1L",
+    "price_kes": 249.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Juice",
+    "product_name": "Del Monte Tropical Blend juice 1L",
+    "pack_size": "1L",
+    "price_kes": 249.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Juice",
+    "product_name": "Del Monte juice Apple 1L",
+    "pack_size": "1L",
+    "price_kes": 249.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Juice",
+    "product_name": "Del Monte juice Blend Mixed Berry 1L",
+    "pack_size": "1L",
+    "price_kes": 249.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Juice",
+    "product_name": "Ribena Blackcurrant juice 250Ml",
+    "pack_size": "250ML",
+    "price_kes": 90.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Boran Beef Meat Bone-In 500G",
+    "pack_size": "500G",
+    "price_kes": 555.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Boran Beef Mince Standard 500G",
+    "pack_size": "500G",
+    "price_kes": 499.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Boran Beef Stroganoff 500G",
+    "pack_size": "500G",
+    "price_kes": 649.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Boran Beef Topside 500G",
+    "pack_size": "500G",
+    "price_kes": 799.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Chicken Breast Boneless 500G",
+    "pack_size": "500G",
+    "price_kes": 399.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Chicken Drumstick 500G",
+    "pack_size": "500G",
+    "price_kes": 459.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Chicken Leg Quarter 500G",
+    "pack_size": "500G",
+    "price_kes": 475.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Chicken Mix 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 549.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Chicken Thigh Quarter 500G",
+    "pack_size": "500G",
+    "price_kes": 399.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Chicken Whole 1.2-1.5Kg",
+    "pack_size": "1.2-1.5KG",
+    "price_kes": 969.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Choice Meats Beef Sausages 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 586.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Farmers Choice Beef Sausages 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 729.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Farmers Choice Classic Pork Sausages 500G",
+    "pack_size": "500G",
+    "price_kes": 399.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Farmers Choice Pork Sausages 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 729.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Farmers Choice Safari Beef Sausages 500G",
+    "pack_size": "500G",
+    "price_kes": 395.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Meat & Poultry",
+    "product_name": "Farmers Choice Spicy Beef Sausages 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 750.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Choice Meat Beef Sausage 500G",
+    "pack_size": "500G",
+    "price_kes": 329.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Farmer's Choice Beef Sausages Value Pack 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 715.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Farmer's Choice Chicken Sausages 400G",
+    "pack_size": "400G",
+    "price_kes": 395.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Farmer's Choice Pork Sausages Value Pack 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 739.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Fresh Beef Mince Lean Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 1099.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Fresh Beef Mince Regular Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 699.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Fresh Beef Short Ribs 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 849.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Fresh Beef Sirloin Steak",
+    "pack_size": "each",
+    "price_kes": 1649.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Fresh Beef T-Bone Steak",
+    "pack_size": "each",
+    "price_kes": 1129.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Fresh Chicken Boneless Breast Per Kg",
+    "pack_size": "per kg",
+    "price_kes": 849.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Kenbeef Beef Burger 400G",
+    "pack_size": "400G",
+    "price_kes": 399.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Kenchic Hungarian Choma Sausages 500G",
+    "pack_size": "500G",
+    "price_kes": 249.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Kenmeat Savannah Sausages 500G",
+    "pack_size": "500G",
+    "price_kes": 309.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Naivas Chicken Capon 1.3Kg",
+    "pack_size": "1.3KG",
+    "price_kes": 649.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Naivas Chicken Capon 1.5Kg",
+    "pack_size": "1.5KG",
+    "price_kes": 749.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Naivas Chicken Kienyeji 1.2Kg",
+    "pack_size": "1.2KG",
+    "price_kes": 995.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Naivas Chicken Liver 500G",
+    "pack_size": "500G",
+    "price_kes": 213.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Meat & Poultry",
+    "product_name": "Naivas Chicken Wings 500G",
+    "pack_size": "500G",
+    "price_kes": 350.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Chicken Capon Fresh 1.3Kg",
+    "pack_size": "1.3KG",
+    "price_kes": 726.7,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Chicken Thighs Bone-In 500G",
+    "pack_size": "500G",
+    "price_kes": 399.5,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Farmers Choice Beef sausages 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 739.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Farmers Choice Pork sausages 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 703.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Farmers Choice Safari Beef sausages 500G",
+    "pack_size": "500G",
+    "price_kes": 419.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Farmers Choice Spicy Beef sausages Value Pack 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 770.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Farmers Choice beef Brawn sliced 200G",
+    "pack_size": "200G",
+    "price_kes": 171.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Kenchic Fresh Chicken sausages 500G",
+    "pack_size": "500G",
+    "price_kes": 375.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Kenchic chicken Drumsticks 500G",
+    "pack_size": "500G",
+    "price_kes": 424.5,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Kenmeat Savannah sausages 500G",
+    "pack_size": "500G",
+    "price_kes": 326.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Meat & Poultry",
+    "product_name": "Quickmart Economy beef Mince 500G",
+    "pack_size": "500G",
+    "price_kes": 356.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Milk",
+    "product_name": "Bio Whole Fresh Milk 2L",
+    "pack_size": "2L",
+    "price_kes": 325.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Milk",
+    "product_name": "Brookside UHT Whole Milk 250Ml",
+    "pack_size": "250ML",
+    "price_kes": 46.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Milk",
+    "product_name": "Carrefour UHT Whole Milk 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 65.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Milk",
+    "product_name": "Ilara Fresh Full Cream Whole Milk 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 68.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Milk",
+    "product_name": "Kinangop Fresh Pouch Milk 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 58.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Milk",
+    "product_name": "Tuzo Whole Milk 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 67.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Milk",
+    "product_name": "Brookside Fresh Milk 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 75.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Milk",
+    "product_name": "Brookside Whole Milk 2L",
+    "pack_size": "2L",
+    "price_kes": 291.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Milk",
+    "product_name": "Fresha Whole Milk 500Ml Pouch",
+    "pack_size": "500ML",
+    "price_kes": 63.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Milk",
+    "product_name": "Ilara Fresh Milk 500Ml Pouch",
+    "pack_size": "500ML",
+    "price_kes": 70.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Milk",
+    "product_name": "Molo Fresh Milk 500Ml Pouch",
+    "pack_size": "500ML",
+    "price_kes": 68.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Milk",
+    "product_name": "Mountain Fresh Milk 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 54.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Milk",
+    "product_name": "Bio Whole fresh milk 1L",
+    "pack_size": "1L",
+    "price_kes": 175.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Milk",
+    "product_name": "Bio Whole fresh milk 2L",
+    "pack_size": "2L",
+    "price_kes": 329.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Milk",
+    "product_name": "Brookside Farm Fresh Whole Milk 3L Bottle",
+    "pack_size": "3L",
+    "price_kes": 431.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Milk",
+    "product_name": "Fresha Fresh Whole Milk 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 65.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Milk",
+    "product_name": "Fresha Fresh Whole Milk 5L",
+    "pack_size": "5L",
+    "price_kes": 600.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Milk",
+    "product_name": "Ilara Fresh Full Cream Whole Milk 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 68.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Noodles",
+    "product_name": "Indomie Beef Instant Noodles 70G x 5",
+    "pack_size": "5X70G",
+    "price_kes": 137.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Noodles",
+    "product_name": "Indomie Chicken Flavour Noodles 120G",
+    "pack_size": "120G",
+    "price_kes": 44.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Noodles",
+    "product_name": "Indomie Chicken Noodles 70G x 5",
+    "pack_size": "5X70G",
+    "price_kes": 109.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Noodles",
+    "product_name": "Indomie Mi Goreng Fried Noodles 400G",
+    "pack_size": "400G",
+    "price_kes": 199.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Noodles",
+    "product_name": "Indomie Mi Goreng Hot & Spicy Noodles 400G",
+    "pack_size": "400G",
+    "price_kes": 199.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Noodles",
+    "product_name": "Indomie Special Chicken Noodles 375G",
+    "pack_size": "375G",
+    "price_kes": 199.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Noodles",
+    "product_name": "Indomie Hot & Spicy Noodles 400G",
+    "pack_size": "400G",
+    "price_kes": 250.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Noodles",
+    "product_name": "Indomie Instant Noodles 85G x 5",
+    "pack_size": "5X85G",
+    "price_kes": 135.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Noodles",
+    "product_name": "Indomie Noodles Chicken 70G",
+    "pack_size": "70G",
+    "price_kes": 30.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Noodles",
+    "product_name": "Nala Chicken Coconut Curry Noodles 70G",
+    "pack_size": "70G",
+    "price_kes": 28.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Noodles",
+    "product_name": "Nala Vegetable Noodles 350G Value Pack",
+    "pack_size": "350G",
+    "price_kes": 119.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Noodles",
+    "product_name": "Nala Vegetable Noodles 70G",
+    "pack_size": "70G",
+    "price_kes": 26.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Noodles",
+    "product_name": "Indomie Beef Instant noodles 70G X 5",
+    "pack_size": "5X70G",
+    "price_kes": 140.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Noodles",
+    "product_name": "Indomie Chicken Flavour noodles 120G",
+    "pack_size": "120G",
+    "price_kes": 45.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Noodles",
+    "product_name": "Indomie Chicken noodles 70G",
+    "pack_size": "70G",
+    "price_kes": 20.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Noodles",
+    "product_name": "Indomie Chicken noodles 70G X 5",
+    "pack_size": "5X70G",
+    "price_kes": 140.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Noodles",
+    "product_name": "Indomie Onion Chicken noodles 75Gx5",
+    "pack_size": "5X75G",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Noodles",
+    "product_name": "Nala Multi Pack noodles 5X70G",
+    "pack_size": "5X70G",
+    "price_kes": 110.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Oral Care",
+    "product_name": "Colgate Maxi Cavity Toothpaste 140G",
+    "pack_size": "140G",
+    "price_kes": 240.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Oral Care",
+    "product_name": "Pepsodent Cavity Fighter Toothpaste 2x150G",
+    "pack_size": "2X150G",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Oral Care",
+    "product_name": "Pepsodent Charcoal Toothpaste Value Pack 130G",
+    "pack_size": "130G",
+    "price_kes": 319.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Oral Care",
+    "product_name": "Pepsodent Herbal Toothpaste Twin Pack 2x125G",
+    "pack_size": "2X125G",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Oral Care",
+    "product_name": "Pepsodent Triple Protection Toothpaste 2x140G",
+    "pack_size": "2X140G",
+    "price_kes": 280.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Oral Care",
+    "product_name": "Colgate Charcoal Gentle Toothpaste 120G",
+    "pack_size": "120G",
+    "price_kes": 250.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Oral Care",
+    "product_name": "Colgate Dental Cream Toothpaste 140G",
+    "pack_size": "140G",
+    "price_kes": 240.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Oral Care",
+    "product_name": "Colgate Herbal Toothpaste 140G",
+    "pack_size": "140G",
+    "price_kes": 280.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Oral Care",
+    "product_name": "Colgate Herbal Toothpaste 230G Value Pack",
+    "pack_size": "230G",
+    "price_kes": 420.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Oral Care",
+    "product_name": "Colgate Herbal Toothpaste 70G",
+    "pack_size": "70G",
+    "price_kes": 150.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Oral Care",
+    "product_name": "Colgate Triple Action Toothpaste 140G",
+    "pack_size": "140G",
+    "price_kes": 300.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Oral Care",
+    "product_name": "Colgate Herbal toothpaste 35G",
+    "pack_size": "35G",
+    "price_kes": 80.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Oral Care",
+    "product_name": "Dabur Herbal toothpaste Activated Charcoal 140G",
+    "pack_size": "140G",
+    "price_kes": 255.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Oral Care",
+    "product_name": "Pepsodent Charcoal toothpaste 130G",
+    "pack_size": "130G",
+    "price_kes": 250.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Oral Care",
+    "product_name": "Pepsodent Herbal toothpaste 150G",
+    "pack_size": "150G",
+    "price_kes": 240.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Oral Care",
+    "product_name": "Pepsodent Herbal toothpaste 65G",
+    "pack_size": "65G",
+    "price_kes": 100.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Pasta",
+    "product_name": "Royal Premium Spaghetti 400G",
+    "pack_size": "400G",
+    "price_kes": 79.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Pasta",
+    "product_name": "Santa Lucia Spaghetti Pasta 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 399.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Pasta",
+    "product_name": "Santa Lucia Spaghetti Pasta 250G",
+    "pack_size": "250G",
+    "price_kes": 109.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Pasta",
+    "product_name": "Santa Lucia Spaghetti Pasta 500G",
+    "pack_size": "500G",
+    "price_kes": 195.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Pasta",
+    "product_name": "Santa Maria Pasta Spaghetti 400G",
+    "pack_size": "400G",
+    "price_kes": 109.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Pasta",
+    "product_name": "Santa Maria Pasta Spaghetti 700G",
+    "pack_size": "700G",
+    "price_kes": 195.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Pasta",
+    "product_name": "Barilla Spaghetti No.5 500G",
+    "pack_size": "500G",
+    "price_kes": 720.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Pasta",
+    "product_name": "Butterfly Standard Spaghetti 400G",
+    "pack_size": "400G",
+    "price_kes": 79.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Pasta",
+    "product_name": "Divella Spaghetti No.8 500G",
+    "pack_size": "500G",
+    "price_kes": 435.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Pasta",
+    "product_name": "Ranee Spaghetti 400G",
+    "pack_size": "400G",
+    "price_kes": 95.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Pasta",
+    "product_name": "Ranee Spaghetti Premium 400G",
+    "pack_size": "400G",
+    "price_kes": 140.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Pasta",
+    "product_name": "Riscossa Spaghetti 500G",
+    "pack_size": "500G",
+    "price_kes": 380.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Pasta",
+    "product_name": "Ranee spaghetti Standard 400G",
+    "pack_size": "400G",
+    "price_kes": 81.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Pasta",
+    "product_name": "Santa Lucia spaghetti Pasta 400G",
+    "pack_size": "400G",
+    "price_kes": 162.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Pasta",
+    "product_name": "Santa Lucia spaghetti Pasta 500G",
+    "pack_size": "500G",
+    "price_kes": 200.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Pasta",
+    "product_name": "Santa Lucia spaghetti Pasta 700G",
+    "pack_size": "700G",
+    "price_kes": 279.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Pasta",
+    "product_name": "Santa Maria spaghetti 400G",
+    "pack_size": "400G",
+    "price_kes": 109.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Always Soft Maxi Thick XL Duo 16 Pieces",
+    "pack_size": "16 pcs",
+    "price_kes": 175.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Femella Sanitary Pads Value Pack 16 Pieces",
+    "pack_size": "16 pcs",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Geisha Coconut Milk & Honey Soap 200G",
+    "pack_size": "200G",
+    "price_kes": 95.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Geisha Lemon & Honey Soap 200G",
+    "pack_size": "200G",
+    "price_kes": 95.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Imperial Leather Classic Soap 150G x 3",
+    "pack_size": "3X150G",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Imperial Leather Jasmine & Milk Soap 125G x 4",
+    "pack_size": "4X125G",
+    "price_kes": 303.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Milele Bathing Soap Coconut 250G",
+    "pack_size": "250G",
+    "price_kes": 63.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Molped Sanitary Pads Super Night 7S",
+    "pack_size": "7 pcs",
+    "price_kes": 130.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Molped Sanitary Pads Ultra Soft 16S",
+    "pack_size": "16 pcs",
+    "price_kes": 200.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Molped Sanitary Pads Ultrasoft Extra 7S",
+    "pack_size": "7 pcs",
+    "price_kes": 130.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Softcare Heavy Flow Maxi Thick Pads 10 x 2",
+    "pack_size": "20 pcs",
+    "price_kes": 228.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Personal Care",
+    "product_name": "Zuri Herbal Anti-Bacterial Bathing Soap 200G",
+    "pack_size": "200G",
+    "price_kes": 87.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Afrisense Cleansing Moisturizing Bar 125G",
+    "pack_size": "125G",
+    "price_kes": 80.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Afrisense Skin Toning Bar 225G",
+    "pack_size": "225G",
+    "price_kes": 120.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "All Tyme Sanitary Pad Medium 8S",
+    "pack_size": "8 pcs",
+    "price_kes": 45.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Femella Sanitary Pads Large 16S",
+    "pack_size": "16 pcs",
+    "price_kes": 129.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Femella Sanitary Pads Regular 8S",
+    "pack_size": "8 pcs",
+    "price_kes": 59.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Medicott Press On Feminine Towels 20 Pieces",
+    "pack_size": "20 pcs",
+    "price_kes": 180.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Sawa Bathing Soap Pink Rose 250G",
+    "pack_size": "250G",
+    "price_kes": 90.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Sawa Bathing Soap White 250G",
+    "pack_size": "250G",
+    "price_kes": 90.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Sawa Herbal Family Soap 225G",
+    "pack_size": "225G",
+    "price_kes": 90.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Sawa Herbal Family Soap 4x70G",
+    "pack_size": "4X70G",
+    "price_kes": 100.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Softcare Maxi Thick Sanitary Pads 8S",
+    "pack_size": "8 pcs",
+    "price_kes": 105.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Personal Care",
+    "product_name": "Sofy Ultra Thin Sanitary Pads Long 8S",
+    "pack_size": "8 pcs",
+    "price_kes": 119.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Personal Care",
+    "product_name": "Femella sanitary pads Value Pack 16S",
+    "pack_size": "16 pcs",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Personal Care",
+    "product_name": "Lanzo bathing soap Antibacterial 200G",
+    "pack_size": "200G",
+    "price_kes": 70.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Personal Care",
+    "product_name": "Lanzo bathing soap Coconut Shea Butter 200G",
+    "pack_size": "200G",
+    "price_kes": 70.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Personal Care",
+    "product_name": "Molped Supernight Long sanitary pads 5 Count",
+    "pack_size": "5 pcs",
+    "price_kes": 130.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Personal Care",
+    "product_name": "Molped sanitary pads Ultra Soft 16S",
+    "pack_size": "16 pcs",
+    "price_kes": 230.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Personal Care",
+    "product_name": "Molped sanitary pads Ultrasoft 8S",
+    "pack_size": "8 pcs",
+    "price_kes": 130.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Personal Care",
+    "product_name": "Softcare Maxi Thick sanitary pads 10 Count",
+    "pack_size": "10 pcs",
+    "price_kes": 105.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Personal Care",
+    "product_name": "Zuri Beauty bathing soap 200G",
+    "pack_size": "200G",
+    "price_kes": 89.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Personal Care",
+    "product_name": "Zuri Sunshine bathing soap 200G",
+    "pack_size": "200G",
+    "price_kes": 89.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Rice",
+    "product_name": "Cil Pishori Rice 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 579.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Rice",
+    "product_name": "Cil Pishori Rice 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 1213.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Rice",
+    "product_name": "Pearl Pishori Fortified Rice 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 580.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Rice",
+    "product_name": "Sunrice Basmati Rice 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 357.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Rice",
+    "product_name": "Sunrice Basmati Rice 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 672.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Rice",
+    "product_name": "Sunrice Basmati Rice 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 1782.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Rice",
+    "product_name": "Cil Pishori Aromatic Rice 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 483.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Rice",
+    "product_name": "Cil Pishori Aromatic Rice 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 1199.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Rice",
+    "product_name": "Daawat Aromatic Rice 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 595.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Rice",
+    "product_name": "Daawat Basmati Rice 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 665.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Rice",
+    "product_name": "Daawat Basmati Rice 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 1449.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Rice",
+    "product_name": "Daawat Biryani Rice 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 275.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Rice",
+    "product_name": "Cil Aromatic Pishori rice 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 531.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Rice",
+    "product_name": "Cil Pishori rice 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 1499.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Rice",
+    "product_name": "Daawat Aromatic rice 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 549.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Rice",
+    "product_name": "Daawat Basmati rice 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 1499.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Rice",
+    "product_name": "Falcon Himalayan Basmati rice 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 1299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Rice",
+    "product_name": "Sunrice Basmati rice 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 1299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Salt",
+    "product_name": "Kensalt Premium Iodated Table Salt 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 45.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Salt",
+    "product_name": "Kensalt Premium Iodated Table Salt 200G",
+    "pack_size": "200G",
+    "price_kes": 10.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Salt",
+    "product_name": "Kensalt Premium Iodated Table Salt 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 84.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Salt",
+    "product_name": "Kensalt Premium Iodated Table Salt 500G",
+    "pack_size": "500G",
+    "price_kes": 24.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Salt",
+    "product_name": "Naturalli Himalayan Pink Fine Salt 500G",
+    "pack_size": "500G",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Salt",
+    "product_name": "Top Chef Table Salt 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 122.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Salt",
+    "product_name": "Kensalt 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 49.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Salt",
+    "product_name": "Kensalt 500G",
+    "pack_size": "500G",
+    "price_kes": 29.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Salt",
+    "product_name": "Kensalt Iodated Table Salt 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 96.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Salt",
+    "product_name": "Top Chef Table Salt 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 135.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Salt",
+    "product_name": "Top Chef Table Salt 500G",
+    "pack_size": "500G",
+    "price_kes": 68.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Salt",
+    "product_name": "Kensalt Premium Iodated Edible Table salt 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 98.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Salt",
+    "product_name": "Kensalt Premium Iodated Table salt 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 49.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Salt",
+    "product_name": "Kensalt Premium Iodated Table salt 500G",
+    "pack_size": "500G",
+    "price_kes": 26.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sauces",
+    "product_name": "Peptang Tomato Sauce 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 167.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sauces",
+    "product_name": "Peptang Tomato Sauce 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 369.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sauces",
+    "product_name": "Peptang Tomato Sauce 700G",
+    "pack_size": "700G",
+    "price_kes": 137.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sauces",
+    "product_name": "Zesta Tomato Sauce 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 159.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sauces",
+    "product_name": "Zesta Tomato Sauce 400G",
+    "pack_size": "400G",
+    "price_kes": 79.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sauces",
+    "product_name": "Zesta Tomato Sauce 700G",
+    "pack_size": "700G",
+    "price_kes": 135.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sauces",
+    "product_name": "Clovers Tomato Sauce 400G",
+    "pack_size": "400G",
+    "price_kes": 90.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sauces",
+    "product_name": "Ken Tomato Sauce 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 205.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sauces",
+    "product_name": "Pep Tomato Sauce 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 169.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sauces",
+    "product_name": "Pep Tomato Sauce 700G",
+    "pack_size": "700G",
+    "price_kes": 139.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sauces",
+    "product_name": "Presto Tomato Sauce 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 179.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sauces",
+    "product_name": "Presto Tomato Sauce 400G",
+    "pack_size": "400G",
+    "price_kes": 80.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sauces",
+    "product_name": "Peptang tomato sauce 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 169.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sauces",
+    "product_name": "Peptang tomato sauce 5L",
+    "pack_size": "5L",
+    "price_kes": 430.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sauces",
+    "product_name": "Presto tomato sauce 400G",
+    "pack_size": "400G",
+    "price_kes": 88.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sauces",
+    "product_name": "Zesta tomato sauce 7 To 7 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 159.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sauces",
+    "product_name": "Zesta tomato sauce 7 To 7 700G",
+    "pack_size": "700G",
+    "price_kes": 129.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "Manji Digestive Biscuits 200G",
+    "pack_size": "200G",
+    "price_kes": 200.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "Manji Milkstar Milk Biscuits 200G",
+    "pack_size": "200G",
+    "price_kes": 92.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "Norda Urban Bites Nyama Choma Potato Crisps 30G",
+    "pack_size": "30G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "Norda Urban Bites Trendy Tomato Potato Crisps 30G",
+    "pack_size": "30G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "NuVita Bravo Biscuits 300 Pieces",
+    "pack_size": "300 pcs",
+    "price_kes": 315.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "NuVita Choco Biscuits 50G",
+    "pack_size": "50G",
+    "price_kes": 25.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "NuVita Digestive Biscuits 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 599.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "NuVita Vitamilk Milky Biscuits 200G",
+    "pack_size": "200G",
+    "price_kes": 89.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Salted Potato Crisps 50G",
+    "pack_size": "50G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Tomato Potato Crisps 20G",
+    "pack_size": "20G",
+    "price_kes": 30.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Tomato Potato Crisps 50G",
+    "pack_size": "50G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Waves Salted Potato Crisps 30G",
+    "pack_size": "30G",
+    "price_kes": 45.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Manji Glucose Biscuits Pack of 72",
+    "pack_size": "each",
+    "price_kes": 390.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Manji Milkstar Milk Biscuits 200G",
+    "pack_size": "200G",
+    "price_kes": 92.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Naivas Salted Crisps 30G",
+    "pack_size": "30G",
+    "price_kes": 55.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Nuvita Digestive Biscuits 400G",
+    "pack_size": "400G",
+    "price_kes": 360.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Nuvita Shortcake Biscuits 200G",
+    "pack_size": "200G",
+    "price_kes": 129.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Parle Milk Power Biscuits 376G",
+    "pack_size": "376G",
+    "price_kes": 190.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Parle Nice Biscuits 750G",
+    "pack_size": "750G",
+    "price_kes": 405.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Pringles Hot & Spicy Crisps 165G",
+    "pack_size": "165G",
+    "price_kes": 460.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Barbeque Crisps 50G",
+    "pack_size": "50G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Potato Crisps Salted 400G",
+    "pack_size": "400G",
+    "price_kes": 445.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Salted Potato Crisps 50G",
+    "pack_size": "50G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Tomato Crisps 50G",
+    "pack_size": "50G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Snacks",
+    "product_name": "Bravo G biscuits 300Pcs",
+    "pack_size": "300 pcs",
+    "price_kes": 299.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Snacks",
+    "product_name": "Manji Glucose biscuits 100G",
+    "pack_size": "100G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Snacks",
+    "product_name": "Manji Marie biscuits 80G",
+    "pack_size": "80G",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Snacks",
+    "product_name": "Norda Urban Bites Nyama Choma Potato crisps 30G",
+    "pack_size": "30G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Snacks",
+    "product_name": "Nuvita Crunchy Ginger biscuits 75G",
+    "pack_size": "75G",
+    "price_kes": 35.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Snacks",
+    "product_name": "Parle Milkpower biscuits 195.5G",
+    "pack_size": "195.5G",
+    "price_kes": 100.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Salted Potato crisps 50G",
+    "pack_size": "50G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Tomato Potato crisps 50G",
+    "pack_size": "50G",
+    "price_kes": 60.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Waves Potato Salted crisps 30G",
+    "pack_size": "30G",
+    "price_kes": 35.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Snacks",
+    "product_name": "Tropical Heat Waves Tomato Potato crisps 30G",
+    "pack_size": "30G",
+    "price_kes": 35.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Soft Drinks",
+    "product_name": "Coca Cola 350Ml",
+    "pack_size": "350ML",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Soft Drinks",
+    "product_name": "Coca Cola PET 2L",
+    "pack_size": "2L",
+    "price_kes": 176.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Soft Drinks",
+    "product_name": "Coca Cola Soda Assorted 2L x 4",
+    "pack_size": "4X2L",
+    "price_kes": 699.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Soft Drinks",
+    "product_name": "Fanta Blackcurrant PET 2L",
+    "pack_size": "2L",
+    "price_kes": 176.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Soft Drinks",
+    "product_name": "Fanta Orange PET 2L",
+    "pack_size": "2L",
+    "price_kes": 176.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Soft Drinks",
+    "product_name": "Fanta Passion 2L",
+    "pack_size": "2L",
+    "price_kes": 176.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Soft Drinks",
+    "product_name": "Club Soda Orange 350Ml",
+    "pack_size": "350ML",
+    "price_kes": 40.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Soft Drinks",
+    "product_name": "Coke Soda 350Ml",
+    "pack_size": "350ML",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Soft Drinks",
+    "product_name": "Coke Soda 500Ml PET",
+    "pack_size": "500ML",
+    "price_kes": 70.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Soft Drinks",
+    "product_name": "Schweppes Soda Water 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 80.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Soft Drinks",
+    "product_name": "Sprite Soda 350Ml",
+    "pack_size": "350ML",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Soft Drinks",
+    "product_name": "Sprite Soda 500Ml PET",
+    "pack_size": "500ML",
+    "price_kes": 70.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Soft Drinks",
+    "product_name": "Afia Cola Carbonated Drink 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 58.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Soft Drinks",
+    "product_name": "Mountain Dew Citrus soda 2L",
+    "pack_size": "2L",
+    "price_kes": 160.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Soft Drinks",
+    "product_name": "Sprite Carbonated Soft Drink 350Ml",
+    "pack_size": "350ML",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Soft Drinks",
+    "product_name": "Sprite Carbonated Soft Drink 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 70.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Soft Drinks",
+    "product_name": "Sprite soda 2L",
+    "pack_size": "2L",
+    "price_kes": 169.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Spreads",
+    "product_name": "Blue Band Peanut Butter 200G",
+    "pack_size": "200G",
+    "price_kes": 200.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Spreads",
+    "product_name": "Blue Band Peanut Butter 400G",
+    "pack_size": "400G",
+    "price_kes": 290.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Spreads",
+    "product_name": "Blue Band Peanut Butter 800G",
+    "pack_size": "800G",
+    "price_kes": 615.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Spreads",
+    "product_name": "Nuteez Peanut Butter Crunchy 800G",
+    "pack_size": "800G",
+    "price_kes": 499.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Spreads",
+    "product_name": "Nuteez Peanut Butter Smooth 400G",
+    "pack_size": "400G",
+    "price_kes": 295.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Spreads",
+    "product_name": "Zesta Peanut Butter Smooth 400G",
+    "pack_size": "400G",
+    "price_kes": 280.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Spreads",
+    "product_name": "Blue Band peanut butter 400G",
+    "pack_size": "400G",
+    "price_kes": 300.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Spreads",
+    "product_name": "Blue Band peanut butter 800G",
+    "pack_size": "800G",
+    "price_kes": 695.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Spreads",
+    "product_name": "Nuteez Smooth peanut butter 400G",
+    "pack_size": "400G",
+    "price_kes": 295.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Spreads",
+    "product_name": "Zesta Crunchy peanut butter 400G",
+    "pack_size": "400G",
+    "price_kes": 280.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Spreads",
+    "product_name": "Zesta peanut butter Smooth 250G",
+    "pack_size": "250G",
+    "price_kes": 175.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sugar",
+    "product_name": "Carrefour Brown Sugar 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 155.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sugar",
+    "product_name": "Mumias Sugar White 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 158.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sugar",
+    "product_name": "Mumias Sugar White 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 302.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sugar",
+    "product_name": "Nutrameal Natural Wholesome Cane Sugar 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 159.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sugar",
+    "product_name": "Nutrameal Natural Wholesome Cane Sugar 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 300.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Sugar",
+    "product_name": "Nutrameal Natural Wholesome Cane Sugar 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 760.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sugar",
+    "product_name": "Kabras Packed Sugar White 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 150.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sugar",
+    "product_name": "Kabras Packed Sugar White 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 305.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sugar",
+    "product_name": "Mumias Sugar Packed 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 150.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sugar",
+    "product_name": "Mumias Sugar Packed 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 305.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sugar",
+    "product_name": "Naivas Sugar White 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 745.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Sugar",
+    "product_name": "Nutrameal Packed Sugar 5Kg",
+    "pack_size": "5KG",
+    "price_kes": 745.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sugar",
+    "product_name": "Kabras sugar White 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sugar",
+    "product_name": "Kabras sugar White 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 295.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sugar",
+    "product_name": "Mumias sugar 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sugar",
+    "product_name": "Mumias sugar 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 295.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sugar",
+    "product_name": "Nutrameal Natural Wholesome Cane sugar 1Kg",
+    "pack_size": "1KG",
+    "price_kes": 149.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Sugar",
+    "product_name": "Nutrameal Natural Wholesome Cane sugar 2Kg",
+    "pack_size": "2KG",
+    "price_kes": 295.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Tea",
+    "product_name": "Dormans Premium Kenyan Tea Leaves 500G",
+    "pack_size": "500G",
+    "price_kes": 379.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Tea",
+    "product_name": "Ketepa Fahari Ya Kenya Loose Tea 500G",
+    "pack_size": "500G",
+    "price_kes": 224.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Tea",
+    "product_name": "Melvins Ginger Loose Tea 500G",
+    "pack_size": "500G",
+    "price_kes": 265.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Tea",
+    "product_name": "Sasini Classic Tea Leaves 250G",
+    "pack_size": "250G",
+    "price_kes": 122.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Tea",
+    "product_name": "Sasini Classic Tea Leaves 500G",
+    "pack_size": "500G",
+    "price_kes": 244.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Tea",
+    "product_name": "Eden Premium Tea Leaves 250G",
+    "pack_size": "250G",
+    "price_kes": 140.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Tea",
+    "product_name": "Eden Tea 100G",
+    "pack_size": "100G",
+    "price_kes": 45.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Tea",
+    "product_name": "Eden Tea 250G",
+    "pack_size": "250G",
+    "price_kes": 110.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Tea",
+    "product_name": "Eden Tea Finest Garden 500G",
+    "pack_size": "500G",
+    "price_kes": 215.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Tea",
+    "product_name": "Fahari Ya Kenya Tea 500G",
+    "pack_size": "500G",
+    "price_kes": 225.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Tea",
+    "product_name": "Kericho Gold Tea 100 Bags",
+    "pack_size": "each",
+    "price_kes": 335.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Tea",
+    "product_name": "5Tea Ginger tea leaves-100G",
+    "pack_size": "100G",
+    "price_kes": 49.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Tea",
+    "product_name": "5Tea Ginger tea leaves-250G",
+    "pack_size": "250G",
+    "price_kes": 122.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Tea",
+    "product_name": "5Tea Pure tea leaves-250G",
+    "pack_size": "250G",
+    "price_kes": 106.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Tea",
+    "product_name": "5Tea Pure tea leaves-500G",
+    "pack_size": "500G",
+    "price_kes": 209.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Tea",
+    "product_name": "Eden Tea Soft Leaves 100G",
+    "pack_size": "100G",
+    "price_kes": 45.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Tea",
+    "product_name": "Eden Tea Soft Leaves 250G",
+    "pack_size": "250G",
+    "price_kes": 110.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Water",
+    "product_name": "Mt. Kenya Natural Drinking Water 18.9L",
+    "pack_size": "18.9L",
+    "price_kes": 510.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Water",
+    "product_name": "Quencher Life Premium Drinking Water 10L",
+    "pack_size": "10L",
+    "price_kes": 235.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Water",
+    "product_name": "Quencher Life Premium Drinking Water 18L",
+    "pack_size": "18L",
+    "price_kes": 405.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Water",
+    "product_name": "Quencher Life Premium Drinking Water 300Ml",
+    "pack_size": "300ML",
+    "price_kes": 20.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Water",
+    "product_name": "Quencher Life Premium Drinking Water 500Ml x 6",
+    "pack_size": "6X500ML",
+    "price_kes": 161.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Water",
+    "product_name": "Quencher Life Premium Drinking Water 5L",
+    "pack_size": "5L",
+    "price_kes": 195.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Water",
+    "product_name": "Excel Premium Drinking Water 1.5L",
+    "pack_size": "1.5L",
+    "price_kes": 70.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Water",
+    "product_name": "Excel Premium Drinking Water 1L",
+    "pack_size": "1L",
+    "price_kes": 50.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Water",
+    "product_name": "Excel Premium Drinking Water 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 30.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Water",
+    "product_name": "Quencher Drinking Water 18L",
+    "pack_size": "18L",
+    "price_kes": 405.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Water",
+    "product_name": "Quencher Drinking Water 5L",
+    "pack_size": "5L",
+    "price_kes": 195.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Water",
+    "product_name": "Quencher Premium Drinking Water 10L",
+    "pack_size": "10L",
+    "price_kes": 235.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Water",
+    "product_name": "Aquaclear drinking water 1L",
+    "pack_size": "1L",
+    "price_kes": 52.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Water",
+    "product_name": "Highlands drinking water 500Ml",
+    "pack_size": "500ML",
+    "price_kes": 25.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Water",
+    "product_name": "Quencher Life Premium drinking water 10L",
+    "pack_size": "10L",
+    "price_kes": 235.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Water",
+    "product_name": "Quencher Life Premium drinking water 18L",
+    "pack_size": "18L",
+    "price_kes": 405.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Water",
+    "product_name": "Quencher Life Premium drinking water 5L",
+    "pack_size": "5L",
+    "price_kes": 195.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Yoghurt",
+    "product_name": "Bio Greek Style Nature Plain Yoghurt 200Ml",
+    "pack_size": "200ML",
+    "price_kes": 176.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Yoghurt",
+    "product_name": "Bio Greek Yoghurt Chia & Cherry 200Ml",
+    "pack_size": "200ML",
+    "price_kes": 179.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Yoghurt",
+    "product_name": "Brookside Real Strawberry Probiotic Yoghurt 250G",
+    "pack_size": "250G",
+    "price_kes": 106.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Yoghurt",
+    "product_name": "Brookside Real Vanilla Pods Probiotic Yoghurt 250G",
+    "pack_size": "250G",
+    "price_kes": 106.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Yoghurt",
+    "product_name": "Delamere Vanilla Yoghurt 3L",
+    "pack_size": "3L",
+    "price_kes": 665.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Carrefour",
+    "category": "Yoghurt",
+    "product_name": "Tuzo Strawberry Yoghurt 200G",
+    "pack_size": "200G",
+    "price_kes": 61.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Yoghurt",
+    "product_name": "Bio Natural Yoghurt 150Ml",
+    "pack_size": "150ML",
+    "price_kes": 119.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Yoghurt",
+    "product_name": "Bio Yoghurt Assorted 90Ml 6 Pack",
+    "pack_size": "90ML",
+    "price_kes": 449.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Yoghurt",
+    "product_name": "Bio Yoghurt Nature Plain 1L",
+    "pack_size": "1L",
+    "price_kes": 669.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Yoghurt",
+    "product_name": "Bio Yoghurt Strawberry 1L",
+    "pack_size": "1L",
+    "price_kes": 669.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Yoghurt",
+    "product_name": "Brookside Probiotic Vanilla Yoghurt 250G",
+    "pack_size": "250G",
+    "price_kes": 109.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Naivas",
+    "category": "Yoghurt",
+    "product_name": "Delamere Strawberry Fruit Yoghurt 450Ml",
+    "pack_size": "450ML",
+    "price_kes": 164.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Yoghurt",
+    "product_name": "Bio Greek Style Nature Plain yoghurt 200Ml",
+    "pack_size": "200ML",
+    "price_kes": 179.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Yoghurt",
+    "product_name": "Brookside Natural Probiotic yoghurt 250Gm",
+    "pack_size": "250G",
+    "price_kes": 106.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Yoghurt",
+    "product_name": "Brookside Real Vanilla Pods Probiotic yoghurt 450G",
+    "pack_size": "450G",
+    "price_kes": 178.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Yoghurt",
+    "product_name": "Delamere Premium Real Pear Caramel yoghurt 250Ml",
+    "pack_size": "250ML",
+    "price_kes": 101.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Yoghurt",
+    "product_name": "Gracies Strawberry yoghurt 250Ml",
+    "pack_size": "250ML",
+    "price_kes": 70.0,
+    "date_collected": "2026-10-21"
+  },
+  {
+    "retailer": "Quickmart",
+    "category": "Yoghurt",
+    "product_name": "Gracies Vanilla yoghurt 250Ml",
+    "pack_size": "250ML",
+    "price_kes": 70.0,
+    "date_collected": "2026-10-21"
+  }
+]
